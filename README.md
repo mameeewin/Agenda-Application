@@ -29,3 +29,11 @@ By Thawin Chalermdit, Ikkyu Pachara Chaiwiwatworakul, and Chutchanun Manmoh. We 
 
   `2. When you start the app, the editor runs, This is the first part, the date, and the name. The title shows up too!`
 
+  `3.After that, we will now create the plan. As you see, we have 4 entry boxes to write our plan, and you can check it out anytime. When you are done just click submit. `
+
+  `4. You will see a box that says “0/155”, that is the letter counter. If you go over the limit (That is 155) it will warn you with red text, then it will cut the letters that are over the limit when you export into a pdf, or preview the pdf.`
+
+  `5. After you click the submit button, new “entry” boxes will open which you can record what happened, and fixes for next time.`
+
+  `6.On the bottom of the app, there are buttons that you can access. Most buttons do what their name says, like “Preview PDF” previews the pdf, and “Save”, saves the agenda. `
+
