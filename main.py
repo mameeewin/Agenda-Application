@@ -7,7 +7,6 @@ import webbrowser
 from fpdf import FPDF
 from tkinter import filedialog
 from tkinter import messagebox
-from fpdf import FPDF
 from PIL import Image
 # print(len("The entry widget can be linked to the horizontal scrollbar if we want the user to enter more text then the actual width of the widget. the widget is holded"))
 submitted = False
